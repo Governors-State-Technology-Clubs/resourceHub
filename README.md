@@ -16,26 +16,35 @@ Welcome to the Software Development Study Group Repository! This repository is d
    - Solutions to various LeetCode problems.
    - Strategies and explanations for different problem-solving techniques.
 
-4. **Online Resources**:
-   - A small curated list of valuable online resources to enhance our learning journey:
-     - [W3Schools](https://www.w3schools.com)
-     - [TutorialsPoint](https://www.tutorialspoint.com)
-     - [FreeCodeCamp](https://www.freecodecamp.org)
-     - [Real Python](https://realpython.com/)
-     - [LeetCode](https://leetcode.com)
-     - [Thonny Editor Download](https://thonny.org/)
-     - [Unofficial Thonny Documentation](https://python.quectel.com/doc/Application_guide/en/dev-tools/Thonny/index.html)
-     - [VS Code Editor Download](https://visualstudio.microsoft.com/downloads/)
-     - [VS Code Documentation](https://code.visualstudio.com/docs)
-     - [PyCharm Editor Download](https://www.jetbrains.com/pycharm/download/)
-     - [PyCharm Documentation](https://www.jetbrains.com/help/pycharm/quick-start-guide.html)
-     - [Python 3.12.4 Download](https://www.python.org/downloads/)
-     - [Official Python 3.12.4 Documentation](https://docs.python.org/3.12/)
-     - [The Git Repository Tool](https://www.git-scm.com/)
-     - [Git Documentation](https://www.git-scm.com/book/en/v2)
-     - [Discord Server @ Summer-SDEV120-IvyTech-server](https://discord.com/)
-     - [Python Reddit](https://www.reddit.com/r/Python/)
-     - [StackOverflow](https://stackoverflow.com/)
+# Online Resources for Learning and Development
+
+## Programming Tutorials and Platforms:
+- [W3Schools](https://www.w3schools.com) - Web tutorials and references.
+- [TutorialsPoint](https://www.tutorialspoint.com) - Comprehensive tutorials on various programming languages and technologies.
+- [FreeCodeCamp](https://www.freecodecamp.org) - Free coding lessons and interactive learning experiences.
+- [Real Python](https://realpython.com/) - Python tutorials and articles for all skill levels.
+- [LeetCode](https://leetcode.com) - Practice coding challenges and prepare for technical interviews.
+
+## Integrated Development Environments (IDEs):
+- [Thonny Editor Download](https://thonny.org/) - Beginner-friendly Python IDE.
+- [Unofficial Thonny Documentation](https://python.quectel.com/doc/Application_guide/en/dev-tools/Thonny/index.html) - Additional resources for Thonny.
+- [VS Code Editor Download](https://visualstudio.microsoft.com/downloads/) - Visual Studio Code, a versatile code editor.
+- [VS Code Documentation](https://code.visualstudio.com/docs) - Official documentation for VS Code.
+- [PyCharm Editor Download](https://www.jetbrains.com/pycharm/download/) - IDE for Python development.
+- [PyCharm Documentation](https://www.jetbrains.com/help/pycharm/quick-start-guide.html) - Official documentation for PyCharm.
+
+## Python Resources:
+- [Python 3.12.4 Download](https://www.python.org/downloads/) - Download Python 3.12.4.
+- [Official Python 3.12.4 Documentation](https://docs.python.org/3.12/) - Documentation for Python 3.12.4.
+
+## Version Control and Collaboration:
+- [The Git Repository Tool](https://www.git-scm.com/) - Download Git for version control.
+- [Git Documentation](https://www.git-scm.com/book/en/v2) - Comprehensive documentation for Git.
+
+## Community and Communication:
+- [Discord Server @ Summer-SDEV120-IvyTech-server](https://discord.com/) - Link to the Discord server for our study group.
+- [Python Reddit](https://www.reddit.com/r/Python/) - Subreddit for Python discussions, news, and questions.
+- [StackOverflow](https://stackoverflow.com/) - Q&A community for programming questions.
 
 ## Collaboration and Contribution
 
