@@ -60,8 +60,94 @@ This repository serves as a central hub for our study group. Members are encoura
 Our study group meets weekly via Google Meet to discuss our progress, address any challenges, and share insights. This repository will serve as a supplement to our meetings, ensuring continuous support and collaboration throughout the week.
 
 ## Getting Started
+# Getting Started with Our GitHub Repository
+
+Welcome to our Software Development Study Group GitHub repository! This repository is designed to facilitate collaboration, learning, and sharing among our group members. Here’s how you can get started:
+
+## Repository Overview
+
+- **Coding Exercises:** Solutions to our class coding exercises.
+- **Debugging Challenges:** Solutions and discussions for debugging challenges.
+- **LeetCode Problems:** Solutions to LeetCode coding problems.
+- **Resources:** Links to online resources like tutorials, documentation, and tools.
+
+## Getting Started
+
+### Step 1: Install Git on Your Machine
+
+To start using Git and GitHub, you need to have Git installed on your machine. Follow the instructions below for your operating system:
+
+- **Windows:**
+  1. Download Git for Windows from the official site: [Git for Windows](https://git-scm.com/download/win).
+  2. Run the installer and follow the setup instructions.
+  3. Confirm the installation by opening Command Prompt and typing into command prompt:
+     ```
+     git --version
+     ```
+
+- **macOS:**
+  1. Open the Terminal.
+  2. Install Git using Homebrew (if you don't have Homebrew installed, follow the instructions at [brew.sh](https://brew.sh)):
+     ```
+     brew install git
+     ```
+  3. Confirm the installation by typing in the Terminal:
+     ```
+     git --version
+     ```
+
+- **Linux:**
+  1. Open your Terminal.
+  2. Install Git using the package manager for your distribution. For example, on Ubuntu:
+     ```
+     sudo apt update
+     sudo apt install git
+     ```
+  3. Confirm the installation by typing in the Terminal:
+     ```
+     git --version
+     ```
+
+### Step 2: Clone the Repository
+
+Once Git is installed, clone the repository to your local machine:
+
+1. Open your terminal (Command Prompt, Git Bash, or Terminal).
+2. Run the following command:
+
+```
+git clone https://github.com/Cedric-Lard/studygroup.git
+```
+Replace `<repository_url>` with the URL of the repository.
+
+### Step 3: Navigate to Relevant Folders
+
+Explore the repository’s folders to find:
+
+- **CodingExercises:** Solutions to class exercises.
+- **DebuggingChallenges:** Solutions and discussions on debugging.
+- **LeetCodeProblems:** Solutions to LeetCode challenges.
+- **Resources:** Useful links to tutorials, documentation, and tools.
+
+### Step 4: Contribute and Collaborate
+
+- **Upload Your Solutions:** If you have solutions to share, upload your files to the respective folders.
+- **Discuss Issues:** Use GitHub Issues to ask questions or discuss problems encountered.
+- **Review and Comment:** Review others’ solutions and provide constructive feedback.
+
+### Step 5: Stay Engaged
+
+- **Weekly Meetings:** Participate in our weekly Google Meet sessions to discuss challenges and solutions.
+- **Use Discord:** Join our Discord server for real-time discussions and updates.
+
+### Step 6: Learn and Grow
+
+Take advantage of the curated resources in the **Resources** folder for additional learning.
 
 
+## Need Help?
+
+If you have any questions or need assistance with the repository, feel free to reach out to Cedric via cedriclard76@gmail.com or other members via Discord or GitHub Issues.
 
 ## Repository Structure
 
@@ -123,10 +209,6 @@ Contains markdown files with links and descriptions of useful online resources.
 - `TutorialsPoint.md`: Links and descriptions for TutorialsPoint resources.
 - `FreeCodeCamp.md`: Links and descriptions for FreeCodeCamp resources.
 - `LeetCode.md`: Links and descriptions for LeetCode resources.
-
-### .gitignore
-
-Specifies intentionally untracked files to ignore.
 
 ## Example Structure
 
