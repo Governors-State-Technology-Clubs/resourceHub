@@ -40,6 +40,7 @@ Welcome to the Software Development Study Group Repository! This repository is d
 ## Version Control and Collaboration:
 - [The Git Repository Tool](https://www.git-scm.com/) - Download Git for version control.
 - [Git Documentation](https://www.git-scm.com/book/en/v2) - Comprehensive documentation for Git.
+- [GitHub Documentation](https://docs.github.com/en) - Documentation for GitHub
 
 ## Community and Communication:
 - [Discord Server @ Summer-SDEV120-IvyTech-server](https://discord.com/) - Link to the Discord server for our study group.
