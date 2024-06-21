@@ -123,12 +123,38 @@ Explore the repository’s folders to find:
 - **Discuss Issues:** Use GitHub Issues to ask questions or discuss problems encountered.
 - **Review and Comment:** Review others’ solutions and provide constructive feedback.
 
-### Step 5: Stay Engaged
+### Step 5: Add, Commit, Push, and Pull
+
+- ## Git Add
+To stage changes for a commit in Git, you use `git add -A` command. This will add all the files you modified to Git
+```
+git add -A
+```
+- ## Git Commit
+Next commit the changes in Git using the `git commit -m "<Your commit message>" command
+Replace "<Your commit message>" with a brief description of what files you have added.
+```
+git commit -m "Added files to debugging_exercises"
+```
+- ## Git Push
+Finally, type the command: 
+```
+git push origin
+```
+- ## Git Pull
+If you want an update to date version of what everyone has type: 
+```
+git pull origin
+```
+And then watch your folders update with everything everyone pushed to github.
+This will add everything to this repo for everyone to see.
+
+### Step 6: Stay Engaged
 
 - **Weekly Meetings:** Participate in our weekly Google Meet sessions to discuss challenges and solutions.
 - **Use Discord:** Join our Discord server for real-time discussions and updates.
 
-### Step 6: Learn and Grow
+### Step 7: Learn and Grow
 
 Take advantage of the curated resources in the **Resources** folder for additional learning.
 
