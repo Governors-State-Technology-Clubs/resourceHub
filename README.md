@@ -62,17 +62,6 @@ Our study group meets weekly via Google Meet to discuss our progress, address an
 ## Getting Started
 # Getting Started with Our GitHub Repository
 
-Welcome to our Software Development Study Group GitHub repository! This repository is designed to facilitate collaboration, learning, and sharing among our group members. Here’s how you can get started:
-
-## Repository Overview
-
-- **Coding Exercises:** Solutions to our class coding exercises.
-- **Debugging Challenges:** Solutions and discussions for debugging challenges.
-- **LeetCode Problems:** Solutions to LeetCode coding problems.
-- **Resources:** Links to online resources like tutorials, documentation, and tools.
-
-## Getting Started
-
 ### Step 1: Install Git on Your Machine
 
 To start using Git and GitHub, you need to have Git installed on your machine. Follow the instructions below for your operating system:
