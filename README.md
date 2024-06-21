@@ -107,7 +107,6 @@ Once Git is installed, clone the repository to your local machine:
 ```
 git clone https://github.com/Cedric-Lard/studygroup.git
 ```
-Replace `<repository_url>` with the URL of the repository.
 
 ### Step 3: Navigate to Relevant Folders
 
