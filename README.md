@@ -43,7 +43,7 @@ Welcome to the Software Development Study Group Repository! This repository is d
 - [GitHub Documentation](https://docs.github.com/en) - Documentation for GitHub
 
 ## Community and Communication:
-- [Discord Server @ Summer-SDEV120-IvyTech-server](https://discord.com/) - Link to the Discord server for our study group.
+- [Discord Server @ Summer-SDEV120-IvyTech-server](https://discord.gg/4bpgTexb/) - Link to the Discord server for our study group.
 - [Python Reddit](https://www.reddit.com/r/Python/) - Subreddit for Python discussions, news, and questions.
 - [StackOverflow](https://stackoverflow.com/) - Q&A community for programming questions.
 
