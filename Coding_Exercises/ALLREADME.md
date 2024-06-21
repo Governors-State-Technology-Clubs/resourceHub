@@ -1,7 +1,5 @@
 # Coding Exercises
 
-Welcome to the Coding Exercises section of the Software Development Study Group repository. This folder contains various coding exercises assigned during the course, along with solutions and notes provided by the study group members.
-
 ## Folder Structure
 
 - **Completed/**
