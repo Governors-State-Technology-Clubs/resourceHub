@@ -306,24 +306,27 @@ study-group-repo/
 ├── Coding_Exercises/
 │   ├── Completed/
 │   │   └── Alice/
-│   │       └── Exercise1/
-│   │           ├── solution.py
+│   │       └── M01/
+│   │           ├── solution1.py
 │   │           └── notes.md
+|   |           
 │   └── To_Review/
 │       └── Bob/
-│           └── Exercise1/
-│               ├── attempt.py
-│               └── notes.md
+│           └── M01/
+│               ├── attempt1.py
+│               ├── notes.md
+|               ├── Carol_Suggestion.py
+|               └── Carol_notes.md  
 ├── Debug_Challenges/
 │   ├── Completed/
 │   │   └── Carol/
-│   │       └── Challenge1/
-│   │           ├── fixed_bug.py
+│   │       └── M01/
+│   │           ├── solution1.py
 │   │           └── explanation.md
 │   └── Need_Help/
 │       └── Dave/
-│           └── Challenge1/
-│               ├── bug_code.py
+│           └── M01/
+│               ├── attempt.py
 │               └── error_log.txt
 ├── LeetCode_Challenges/
 │   ├── Completed/
@@ -334,8 +337,8 @@ study-group-repo/
 │   └── To_Review/
 │       └── Bob/
 │           └── TwoSum/
-│               ├── attempt.py
-│               └── questions.md
+│               ├── attempt1.py
+│               └── notes.md
 ├── Resources/
 │   ├── Cyber_Security.md
 |   |   ├── Reading
