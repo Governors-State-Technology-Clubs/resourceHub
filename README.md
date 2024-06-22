@@ -5,23 +5,28 @@ Welcome to the Software Development Study Group Repository! This repository is d
 ## Repository Contents
 
 1. **Coding Exercises**:
+   
    - Solutions to our class's coding exercises and an area where we can post our code for everyone to see and help. :)
    - Contributions from members with their unique approaches.
 
 2. **Debug Challenges**:
+   
    - Solutions to debugging tasks and an area where we can post our code for everyone to see and help.
    - Tips and tricks for efficient debugging.
 
 3. **LeetCode Challenges**:
+   
    - Solutions to various LeetCode problems and other algorithm challenges and see help space.
    - Strategies and explanations for different problem-solving techniques.
 
 ## REMEMBER: As a separate note while working through class work or using external sources, focus on the fundamentals. Fundamentals are the backbone of everything that has ever been made in human history.
 
 # Online Resources for Learning and Development
+
 - ## NOTE: THE TOOLS HERE ARE FOR YOU TO FREELY LEARN AND USE. FOR YOUR SAKE AND SANITY, PLEASE ONLY USE "LTS" A.K.A THE LONG TERM SUPPORTED VERSIONS. ALWAYS REMEMBER, YOU ARE IN CONTROL. WHAT YOU LEARN IS IN YOUR HANDS AND YOUR HANDS ALONE.
-  
+
 ## Programming Tutorials and Platforms:
+
 - [W3Schools](https://www.w3schools.com) - Web Development tutorials and references, covering HTML, CSS, JavaScript, and various web technologies.
 - [TutorialsPoint](https://www.tutorialspoint.com) - Comprehensive tutorials on various programming languages and technologies, including practical examples and references.
 - [FreeCodeCamp](https://www.freecodecamp.org) - Free coding lessons and interactive learning experiences, focusing on web development and software engineering.
@@ -36,10 +41,12 @@ Welcome to the Software Development Study Group Repository! This repository is d
 - [HackerRank](https://www.hackerrank.com/) - Practice coding problems and tutorials on various algorithms and data structures.
 
 ## Python Resources:
+
 - [Python 3.12.4 Download](https://www.python.org/downloads/) - Download Python 3.12.4.
 - [Official Python 3.12.4 Documentation](https://docs.python.org/3.12/) - Documentation for Python 3.12.4.
 
 ## Version Control and Collaboration:
+
 - [The Git Repository Tool](https://www.git-scm.com/) - Download Git for version control.
 - [Git Documentation](https://www.git-scm.com/book/en/v2) - Comprehensive documentation for Git.
 - [GitHub Documentation](https://docs.github.com/en) - Documentation for GitHub.
@@ -47,11 +54,13 @@ Welcome to the Software Development Study Group Repository! This repository is d
 - [GitHub Desktop Documentation](https://docs.github.com/en/desktop) - Official documentation for GitHub Desktop.
 
 ## Community and Communication:
+
 - [Discord Server @ Summer-SDEV120-IvyTech-server](https://discord.gg/4bpgTexb/) - Link to the Discord server for our study group.
 - [Python Reddit](https://www.reddit.com/r/Python/) - Subreddit for Python discussions, news, and questions.
 - [StackOverflow](https://stackoverflow.com/) - Q&A community for programming questions.
 
 ## External Language and Exploration:
+
 - [MinGW "Minimalist GNU For Windows](https://osdn.net/projects/mingw/releases/) - Minimalist GNU for Windows, a development environment for native Microsoft Windows applications.
 - [OpenJDK Download](https://osdn.net/projects/mingw/releases/) - Free and open-source implementation of the Java Platform, Standard Edition.
 - [OracleJDK21 Download](https://www.oracle.com/java/technologies/downloads/#java21) - THE COMMUNITY VERSION IS FREE: If you want to play with Java use the community version. If you want to really build something without paying, I recommend the OpenJDK.
@@ -85,6 +94,7 @@ This repository serves as a central hub for our study group's resources and code
 Our study group meets weekly via Google Meet to discuss our progress, address any challenges, and share insights. This repository will serve as a supplement to our meetings.
 
 # Getting Started
+
 ## Getting Started with Our GitHub Repository
 
 ### Step 1: Install Git on Your Machine
@@ -92,32 +102,46 @@ Our study group meets weekly via Google Meet to discuss our progress, address an
 To start using Git with the GitHub platform, you need to have Git installed on your machine. Follow the instructions below for your operating system:
 
 - **Windows:**
+  
   1. Download Git for Windows from the official site: [Git for Windows](https://git-scm.com/download/win).
+  
   2. Run the installer and follow the setup instructions.
+  
   3. Confirm the installation by opening Command Prompt and typing into command prompt:
+     
      ```
      git --version
      ```
 
 - **macOS:**
+  
   1. Open the Terminal.
+  
   2. Install Git using Homebrew (if you don't have Homebrew installed, follow the instructions at [brew.sh](https://brew.sh)):
+     
      ```
      brew install git
      ```
+  
   3. Confirm the installation by typing in the Terminal:
+     
      ```
      git --version
      ```
 
 - **Linux:**
+  
   1. Open your Terminal.
+  
   2. Install Git using the package manager for your distribution, if you are using Linux I assume you know what package manager you're using. For example, on Ubuntu:
+     
      ```
      sudo apt update
      sudo apt install git
      ```
+  
   3. Confirm the installation by typing in the Terminal:
+     
      ```
      git --version
      ```
@@ -144,37 +168,51 @@ Explore the repository’s folders to find:
 
 ### Step 4: Contribute and Collaborate
 
-- ### NOTE: These commands are ran in a terminal like command prompt, BASH, or something similar. 
+- ### NOTE: These commands are ran in a terminal like command prompt, BASH, or something similar.
 
 - **Upload Your Solutions:** If you have solutions to share, upload your files to the respective folders.
+
 - **Discuss Issues:** Use GitHub Issues to ask questions or discuss problems encountered. You can also post in the discord.
+
 - **Review and Comment:** Review others’ solutions and provide constructive feedback.
 
 ### Step 5: Add, Commit, Push, and Pull
 
 - ## Git Add
-To stage changes for a commit in Git, you use `git add -A` command. This will add all the files you modified to Git WARNING: ONLY CHANGE THINGS IN YOUR SPECIFIC FOLDER! If you write a file in someone else's folder PUT YOUR NAME ON IT. If your modifying someone else's file ASK FIRST! Or make your own copy somewhere else on your computer. DO NOT COMMIT AND PUSH CHANGES TO SOMEONE ELSE'S FILE TO THIS REPOSITORY.
-```
-git add -A
-```
+  
+  To stage changes for a commit in Git, you use `git add -A` command. This will add all the files you modified to Git WARNING: ONLY CHANGE THINGS IN YOUR SPECIFIC FOLDER! If you write a file in someone else's folder PUT YOUR NAME ON IT. If your modifying someone else's file ASK FIRST! Or make your own copy somewhere else on your computer. DO NOT COMMIT AND PUSH CHANGES TO SOMEONE ELSE'S FILE TO THIS REPOSITORY.
+  
+  ```
+  git add -A
+  ```
+
 - ## Git Commit
-Next commit the changes in Git using the `git commit -m "<Your commit message>" command
-Replace "<Your commit message>" with a brief description of what files you have added.
-```
-git commit -m "Added files to debugging_exercises"
-```
+  
+  Next commit the changes in Git using the `git commit -m "<Your commit message>" command
+  Replace "<Your commit message>" with a brief description of what files you have added.
+  
+  ```
+  git commit -m "Added files to debugging_exercises"
+  ```
+
 - ## Git Push
-Finally, type the command: 
-```
-git push origin
-```
+  
+  Finally, type the command: 
+  
+  ```
+  git push origin
+  ```
+
 - ## Git Pull
-If you want an update to date version of the repository run: 
-```
-git pull origin
-```
-And then watch your folders update with everything everyone pushed to github.
-This will add everything to this repo for everyone to see.
+  
+  If you want an update to date version of the repository run: 
+  
+  ```
+  git pull origin
+  ```
+  
+  And then watch your folders update with everything everyone pushed to github.
+  This will add everything to this repo for everyone to see.
 
 ### Step 6: Stay Engaged
 
@@ -184,7 +222,6 @@ This will add everything to this repo for everyone to see.
 ### Step 7: Learn and Grow
 
 Take advantage of the curated resources in the **Resources** folder for additional learning.
-
 
 ## Need Help?
 
@@ -199,12 +236,14 @@ The repository is organized into the following main directories:
 Contains all coding exercises from our class.
 
 - **Completed**: Post your solutions and let's talk about it. It is important to realize that everyone thinks a bit differently and there is technically no "right" answer to coding patterns, conventions, or algorithm usage. Some things work better than others. If you develope a solution that works on your own please share it. It can help you grow to discuss what you did and how you thought of the problem and give us more perspectives.
+  
   - `member_name/`: Subfolder for each member to keep their solutions organized.
     - `exercise_name/`: Specific exercise folder containing the solution files.
       - `solution.py`: The solution file.
       - `notes.md`: Notes and explanations.
 
 - **To_Review**: Exercises that need review and feedback.
+  
   - `member_name/`: Subfolder for each member.
     - `exercise_name/`: Specific exercise folder containing the files needing review.
       - `attempt.py`: The initial attempt at solving the exercise.
@@ -215,12 +254,14 @@ Contains all coding exercises from our class.
 Contains debugging challenges from our class.
 
 - **Completed**: Solutions that have been finalized.
+  
   - `member_name/`: Subfolder for each member to keep their solutions organized.
     - `challenge_name/`: Specific challenge folder containing the solution files.
       - `fixed_bug.py`: The fixed bug solution file.
       - `explanation.md`: Explanation of the bug and the fix.
 
 - **Need_Help**: Challenges that need assistance.
+  
   - `member_name/`: Subfolder for each member.
     - `challenge_name/`: Specific challenge folder containing the problematic files.
       - `bug_code.py`: The code with the bug.
@@ -231,12 +272,14 @@ Contains debugging challenges from our class.
 Contains LeetCode problems.
 
 - **Completed**: Solutions that have been finalized.
+  
   - `member_name/`: Subfolder for each member to keep their solutions organized.
     - `problem_name/`: Specific problem folder containing the solution files.
       - `solution.py`: The solution file.
       - `explanation.md`: Explanation of the solution.
 
 - **To_Review**: Problems that need review and feedback.
+  
   - `member_name/`: Subfolder for each member.
     - `problem_name/`: Specific problem folder containing the files needing review.
       - `attempt.py`: The initial attempt at solving the problem.
@@ -244,12 +287,13 @@ Contains LeetCode problems.
 
 ### Resources
 
-Contains markdown files with links and descriptions of useful online resources.
+Contains markdown files with links and descriptions of useful online resources on specific topics. If there are topics missing, create a new folder make a new .md file for that folder and push it to the repo. This space is for you all to share information on areas of interest in Computer Science. What is currently here is just a template.
 
-- `W3Schools.md`: Links and descriptions for W3Schools resources.
-- `TutorialsPoint.md`: Links and descriptions for TutorialsPoint resources.
-- `FreeCodeCamp.md`: Links and descriptions for FreeCodeCamp resources.
-- `LeetCode.md`: Links and descriptions for LeetCode resources.
+- `Cyber Security:`: Add links to videos and reading materials on Cyber Security
+- `Data Science`: Add links to videos and reading materials on Data Science.
+- `Data Structures`: Add links to videos and reading materials on Data Structures.
+  
+  etc.
 
 ## Example Structure
 
@@ -297,3 +341,4 @@ study-group-repo/
 │   ├── FreeCodeCamp.md
 │   └── LeetCode.md
 └── .gitignore
+```
