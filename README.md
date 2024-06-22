@@ -188,7 +188,7 @@ Take advantage of the curated resources in the **Resources** folder for addition
 
 ## Need Help?
 
-If you have any questions or need assistance with the repository, feel free to reach out to Cedric via cedriclard76@gmail.com or other members via Discord or GitHub Issues.
+If you have any questions or need assistance with the repository, feel free to reach out to Cedric via cedriclard76@gmail.com or other members via Discord.
 
 ## Repository Structure
 
