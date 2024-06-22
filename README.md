@@ -1,37 +1,39 @@
 # SDEV 120 Summer Study Group
 
-Welcome to the Software Development Study Group Repository! This repository is dedicated to our collaborative learning journey as we tackle coding exercises, debug challenges, and LeetCode problems together. Here, you'll find a collection of resources and solutions designed to support our learning and growth.
+Welcome to the Software Development Study Group Repository! This repository is dedicated to our collaborative learning journey as we tackle coding exercises, debug challenges, and possibly LeetCode problems together. Here, you'll find a collection of resources and solutions designed to support our learning and growth.
 
 ## Repository Contents
 
 1. **Coding Exercises**:
-   - Solutions to our class's coding exercises.
+   - Solutions to our class's coding exercises and an area where we can post our code for everyone to see and help. :)
    - Contributions from members with their unique approaches.
 
 2. **Debug Challenges**:
-   - Solutions to debugging tasks.
+   - Solutions to debugging tasks and an area where we can post our code for everyone to see and help.
    - Tips and tricks for efficient debugging.
 
 3. **LeetCode Challenges**:
-   - Solutions to various LeetCode problems.
+   - Solutions to various LeetCode problems and other algorithm challenges and see help space.
    - Strategies and explanations for different problem-solving techniques.
 
+## REMEMBER: As a separate note while working through class work or using external sources, focus on the fundamentals. Fundamentals are the backbone of everything that has ever been made in human history.
+
 # Online Resources for Learning and Development
-
+- ## NOTE: THE TOOLS HERE ARE FOR YOU TO FREELY LEARN AND USE. FOR YOUR SAKE AND SANITY, PLEASE ONLY USE "LTS" A.K.A THE LONG TERM SUPPORTED VERSIONS. ALWAYS REMEMBER, YOU ARE IN CONTROL. WHAT YOU LEARN IS IN YOUR HANDS AND YOUR HANDS ALONE.
+  
 ## Programming Tutorials and Platforms:
-- [W3Schools](https://www.w3schools.com) - Web tutorials and references.
-- [TutorialsPoint](https://www.tutorialspoint.com) - Comprehensive tutorials on various programming languages and technologies.
-- [FreeCodeCamp](https://www.freecodecamp.org) - Free coding lessons and interactive learning experiences.
-- [Real Python](https://realpython.com/) - Python tutorials and articles for all skill levels.
+- [W3Schools](https://www.w3schools.com) - Web Development tutorials and references, covering HTML, CSS, JavaScript, and various web technologies.
+- [TutorialsPoint](https://www.tutorialspoint.com) - Comprehensive tutorials on various programming languages and technologies, including practical examples and references.
+- [FreeCodeCamp](https://www.freecodecamp.org) - Free coding lessons and interactive learning experiences, focusing on web development and software engineering.
+- [Real Python](https://realpython.com/) - Python tutorials and articles for all skill levels, offering in-depth explanations and practical coding examples.
 - [LeetCode](https://leetcode.com) - Practice coding challenges and prepare for technical interviews.
-
-## Integrated Development Environments (IDEs):
-- [Thonny Editor Download](https://thonny.org/) - Beginner-friendly Python IDE.
-- [Unofficial Thonny Documentation](https://python.quectel.com/doc/Application_guide/en/dev-tools/Thonny/index.html) - Additional resources for Thonny.
-- [VS Code Editor Download](https://visualstudio.microsoft.com/downloads/) - Visual Studio Code, a versatile code editor.
-- [VS Code Documentation](https://code.visualstudio.com/docs) - Official documentation for VS Code.
-- [PyCharm Editor Download](https://www.jetbrains.com/pycharm/download/) - IDE for Python development.
-- [PyCharm Documentation](https://www.jetbrains.com/help/pycharm/quick-start-guide.html) - Official documentation for PyCharm.
+- [GeeksForGeeks](https://www.geeksforgeeks.org/) - Comprehensive tutorials on algorithms, data structures, and a variety of programming topics.
+- [Khan Academy's Algorithm Course](https://www.khanacademy.org/computing/computer-science/algorithms) - Interactive lessons on algorithms and data structures.
+- [Algorithms Part I from Princeton University-Free Coursera Class-](https://www.coursera.org/learn/algorithms-part1?) - Free course covering the fundamentals of algorithms and data structures.
+- [Introduction to Computer Science and Programming Using Python" by MIT-Free edX Class-](https://www.edx.org/learn/scratch-programming/harvard-university-cs50-s-introduction-to-programming-with-scratch?index=product&queryID=4b756507ae3761b574ac1eee39bbb8cd&position=1&results_level=first-level-results&term=%22Introduction+to+Computer+Science+and+Programming+Using+Python%22+by+MIT.&objectID=course-8290161d-6419-41c6-87a8-b0fa61b8bb86&campaign=CS50%27s+Introduction+to+Programming+with+Scratch&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch) - Free course from MIT introducing computer science and programming using Python.
+- ["Introduction to Algorithms" -Free MIT Opencourseware-(6.006)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - Free MIT course materials on algorithms.
+- ["The Algorithm Design Manual" by Steven S. Skiena](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf) - Comprehensive textbook on algorithm design, freely available online.
+- [HackerRank](https://www.hackerrank.com/) - Practice coding problems and tutorials on various algorithms and data structures.
 
 ## Python Resources:
 - [Python 3.12.4 Download](https://www.python.org/downloads/) - Download Python 3.12.4.
@@ -40,16 +42,39 @@ Welcome to the Software Development Study Group Repository! This repository is d
 ## Version Control and Collaboration:
 - [The Git Repository Tool](https://www.git-scm.com/) - Download Git for version control.
 - [Git Documentation](https://www.git-scm.com/book/en/v2) - Comprehensive documentation for Git.
-- [GitHub Documentation](https://docs.github.com/en) - Documentation for GitHub
+- [GitHub Documentation](https://docs.github.com/en) - Documentation for GitHub.
+- [GitHub Desktop App](https://desktop.github.com/) - Application to manage GitHub repositories from your desktop.
+- [GitHub Desktop Documentation](https://docs.github.com/en/desktop) - Official documentation for GitHub Desktop.
 
 ## Community and Communication:
 - [Discord Server @ Summer-SDEV120-IvyTech-server](https://discord.gg/4bpgTexb/) - Link to the Discord server for our study group.
 - [Python Reddit](https://www.reddit.com/r/Python/) - Subreddit for Python discussions, news, and questions.
 - [StackOverflow](https://stackoverflow.com/) - Q&A community for programming questions.
 
+## External Language and Exploration:
+- [MinGW "Minimalist GNU For Windows](https://osdn.net/projects/mingw/releases/) - Minimalist GNU for Windows, a development environment for native Microsoft Windows applications.
+- [OpenJDK Download](https://osdn.net/projects/mingw/releases/) - Free and open-source implementation of the Java Platform, Standard Edition.
+- [OracleJDK21 Download](https://www.oracle.com/java/technologies/downloads/#java21) - THE COMMUNITY VERSION IS FREE: If you want to play with Java use the community version. If you want to really build something without paying, I recommend the OpenJDK.
+- [WSL Documentation "Windows Subsystem For Linux"](https://learn.microsoft.com/en-us/windows/wsl/) - Documentation for running a Linux distribution alongside Windows.
+- [Rust Language](https://www.rust-lang.org/) - A systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
+- [Rust Documentation](https://doc.rust-lang.org/book/) - Official documentation and book for learning Rust.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - A versatile programming language commonly used in web development.
+- [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - Official documentation and guide for learning and using JavaScript.
+- [Scala Language](https://www.scala-lang.org/) - A hybrid functional and object-oriented programming language.
+- [Scala Documentation](https://docs.scala-lang.org/) - Official documentation for learning and using Scala.
+- [C++ Language](https://isocpp.org/) - A general-purpose programming language created as an extension of the C programming language.
+- [C++ Documentation](https://isocpp.org/get-started) - Official documentation and resources for learning C++.
+- [Docker](https://www.docker.com/) - Platform for developing, shipping, and running applications using containerization.
+- [Docker Documentation](https://docs.docker.com/) - Official documentation for learning and using Docker.
+- [Anaconda](https://www.anaconda.com/) - Distribution of Python and R for scientific computing and data science.
+- [Anaconda Documentation](https://docs.anaconda.com/) - Official documentation for learning and using Anaconda.
+- [Conda](https://docs.conda.io/en/latest/) - Package, dependency, and environment management for any language.
+- [Jupyter Notebook](https://jupyter.org/) - Open-source web application for creating and sharing documents with live code, equations, visualizations, and narrative text.
+- [Jupyter Documentation](https://jupyter-notebook.readthedocs.io/en/stable/) - Official documentation for learning and using Jupyter Notebooks.
+
 ## Collaboration and Contribution
 
-This repository serves as a central hub for our study group. Members are encouraged to:
+This repository serves as a central hub for our study group's resources and code. Members are encouraged to:
 
 - **Upload their own solutions**: Share your code for exercises and challenges to receive feedback and help others learn from your approach.
 - **Seek assistance**: If you're stuck on a problem, upload your code, and we can work through the issues together.
@@ -57,14 +82,14 @@ This repository serves as a central hub for our study group. Members are encoura
 
 ## Weekly Meetings
 
-Our study group meets weekly via Google Meet to discuss our progress, address any challenges, and share insights. This repository will serve as a supplement to our meetings, ensuring continuous support and collaboration throughout the week.
+Our study group meets weekly via Google Meet to discuss our progress, address any challenges, and share insights. This repository will serve as a supplement to our meetings.
 
 ## Getting Started
 # Getting Started with Our GitHub Repository
 
 ### Step 1: Install Git on Your Machine
 
-To start using Git and GitHub, you need to have Git installed on your machine. Follow the instructions below for your operating system:
+To start using Git with the GitHub platform, you need to have Git installed on your machine. Follow the instructions below for your operating system:
 
 - **Windows:**
   1. Download Git for Windows from the official site: [Git for Windows](https://git-scm.com/download/win).
@@ -87,7 +112,7 @@ To start using Git and GitHub, you need to have Git installed on your machine. F
 
 - **Linux:**
   1. Open your Terminal.
-  2. Install Git using the package manager for your distribution. For example, on Ubuntu:
+  2. Install Git using the package manager for your distribution, if you are using Linux I assume you know what package manager you're using. For example, on Ubuntu:
      ```
      sudo apt update
      sudo apt install git
@@ -99,7 +124,7 @@ To start using Git and GitHub, you need to have Git installed on your machine. F
 
 ### Step 2: Clone the Repository
 
-Once Git is installed, clone the repository to your local machine:
+Once Git is installed, clone the repository to your machine:
 
 1. Open your terminal (Command Prompt, Git Bash, or Terminal).
 2. Run the following command:
@@ -119,14 +144,16 @@ Explore the repository’s folders to find:
 
 ### Step 4: Contribute and Collaborate
 
+- ###NOTE: These commands are ran in a terminal like command prompt, BASH, or something similar. 
+
 - **Upload Your Solutions:** If you have solutions to share, upload your files to the respective folders.
-- **Discuss Issues:** Use GitHub Issues to ask questions or discuss problems encountered.
+- **Discuss Issues:** Use GitHub Issues to ask questions or discuss problems encountered. You can also post in the discord.
 - **Review and Comment:** Review others’ solutions and provide constructive feedback.
 
 ### Step 5: Add, Commit, Push, and Pull
 
 - ## Git Add
-To stage changes for a commit in Git, you use `git add -A` command. This will add all the files you modified to Git
+To stage changes for a commit in Git, you use `git add -A` command. This will add all the files you modified to Git WARNING: ONLY CHANGE THINGS IN YOUR SPECIFIC FOLDER! If you write a file in someone else's folder PUT YOUR NAME ON IT. If your modifying someone else's file ASK FIRST! Or make your own copy somewhere else on your computer. DO NOT COMMIT AND PUSH CHANGES TO SOMEONE ELSE'S FILE TO THIS REPOSITORY.
 ```
 git add -A
 ```
@@ -142,7 +169,7 @@ Finally, type the command:
 git push origin
 ```
 - ## Git Pull
-If you want an update to date version of what everyone has type: 
+If you want an update to date version of the repository run: 
 ```
 git pull origin
 ```
