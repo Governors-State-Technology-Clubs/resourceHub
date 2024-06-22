@@ -84,8 +84,8 @@ This repository serves as a central hub for our study group's resources and code
 
 Our study group meets weekly via Google Meet to discuss our progress, address any challenges, and share insights. This repository will serve as a supplement to our meetings.
 
-## Getting Started
-# Getting Started with Our GitHub Repository
+# Getting Started
+## Getting Started with Our GitHub Repository
 
 ### Step 1: Install Git on Your Machine
 
@@ -144,7 +144,7 @@ Explore the repository’s folders to find:
 
 ### Step 4: Contribute and Collaborate
 
-- ###NOTE: These commands are ran in a terminal like command prompt, BASH, or something similar. 
+- ### NOTE: These commands are ran in a terminal like command prompt, BASH, or something similar. 
 
 - **Upload Your Solutions:** If you have solutions to share, upload your files to the respective folders.
 - **Discuss Issues:** Use GitHub Issues to ask questions or discuss problems encountered. You can also post in the discord.
