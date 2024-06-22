@@ -290,9 +290,10 @@ Contains LeetCode problems.
 Contains markdown files with links and descriptions of useful online resources on specific topics. If there are topics missing, create a new folder make a new .md file for that folder and push it to the repo. This space is for you all to share information on areas of interest in Computer Science. What is currently here is just a template.
 
 - `Cyber Security:`: Add links to videos and reading materials on Cyber Security
+
 - `Data Science`: Add links to videos and reading materials on Data Science.
+
 - `Data Structures`: Add links to videos and reading materials on Data Structures.
-  
   etc.
 
 ## Example Structure
@@ -336,9 +337,13 @@ study-group-repo/
 │               ├── attempt.py
 │               └── questions.md
 ├── Resources/
-│   ├── W3Schools.md
-│   ├── TutorialsPoint.md
-│   ├── FreeCodeCamp.md
-│   └── LeetCode.md
+│   ├── Cyber_Security.md
+|   |   ├── Reading
+|   |   |   └── READMELIST.md
+|   |   └── Videos
+|   |       └── READMELIST.md
+│   ├── Data_Science.md
+│   ├── Data_Structures.md
+│   └── Databases.md
 └── .gitignore
 ```
