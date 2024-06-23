@@ -1,0 +1,1 @@
+[Python Introduction](https://www.w3schools.com/python/python_intro.asp) - This resource provides a comprehensive introduction to Python, covering basic syntax, variables, data types, and essential programming concepts.
