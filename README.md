@@ -233,7 +233,7 @@ The repository is organized into the following main directories:
 
 ### Coding_Exercises
 
-Contains all coding exercises from our class.
+Contains additional coding exercises. I am hoping to hear your questions and post exercises that helps you guys get better.
 
 - **Completed**: Post your solutions and let's talk about it. It is important to realize that everyone thinks a bit differently and there is technically no "right" answer to coding patterns, conventions, or algorithm usage. Some things work better than others. If you develope a solution that works on your own please share it. It can help you grow to discuss what you did and how you thought of the problem and give us more perspectives.
   
