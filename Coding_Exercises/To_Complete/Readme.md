@@ -1,0 +1,1 @@
+## This folder contains general coding exercises I think will help the class in understanding what is going on in general. Please send in questions to help guide what is posted in this folder, thanks.
