@@ -1,0 +1,1 @@
+I think that E and F need to be in their own module as these things are called in two different parts of the program. The rest of the program seems as though it can stand as is.
