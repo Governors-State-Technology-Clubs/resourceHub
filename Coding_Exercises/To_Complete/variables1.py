@@ -1,0 +1,1 @@
+#This coding exercise is to get you to understand some of the basics of variables in python. For this exercise you will write two variables and sum them together and print the result by yourself. No more no less. Write your code below.
