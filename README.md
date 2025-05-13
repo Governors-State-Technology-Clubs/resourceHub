@@ -1,25 +1,9 @@
-# SDEV 120 Summer Study Group
+# Resource Hub
 
-Welcome to the Software Development Study Group Repository! This repository is dedicated to our collaborative learning journey as we tackle coding exercises, debug challenges, and possibly LeetCode problems together. Here, you'll find a collection of resources and solutions designed to support our learning and growth.
+Welcome to the Computer Science Society Resource Repository! This repository is dedicated to our collaborative learning journey as we tackle coding exercises, debug challenges, and possibly LeetCode problems together. Here, you'll find a collection of resources and solutions designed to support our learning and growth.
 
-## Repository Contents
 
-1. **Coding Exercises**:
-   
-   - Solutions to our class's coding exercises and an area where we can post our code for everyone to see and help. :)
-   - Contributions from members with their unique approaches.
-
-2. **Debug Challenges**:
-   
-   - Solutions to debugging tasks and an area where we can post our code for everyone to see and help.
-   - Tips and tricks for efficient debugging.
-
-3. **LeetCode Challenges**:
-   
-   - Solutions to various LeetCode problems and other algorithm challenges and see help space.
-   - Strategies and explanations for different problem-solving techniques.
-
-## REMEMBER: As a separate note while working through class work or using external sources, focus on the fundamentals. Fundamentals are the backbone of everything that has ever been made in human history.
+## REMEMBER: As a separate note while working through class work or using external sources, focus on understanding the fundamentals. Fundamentals are the backbone of everything that has ever been made in human history.
 
 # Online Resources for Learning and Development
 
@@ -55,7 +39,7 @@ Welcome to the Software Development Study Group Repository! This repository is d
 
 ## Community and Communication:
 
-- [Discord Server @ Summer-SDEV120-IvyTech-server](https://discord.gg/4bpgTexb/) - Link to the Discord server for our study group.
+- [Discord Server @ GSU Computer Science Society](https://discord.gg/J7EezeQHmC) - Link to the Discord server.
 - [Python Reddit](https://www.reddit.com/r/Python/) - Subreddit for Python discussions, news, and questions.
 - [StackOverflow](https://stackoverflow.com/) - Q&A community for programming questions.
 
@@ -81,7 +65,7 @@ Welcome to the Software Development Study Group Repository! This repository is d
 - [Jupyter Notebook](https://jupyter.org/) - Open-source web application for creating and sharing documents with live code, equations, visualizations, and narrative text.
 - [Jupyter Documentation](https://jupyter-notebook.readthedocs.io/en/stable/) - Official documentation for learning and using Jupyter Notebooks.
 
-## Collaboration and Contribution
+## Collaboration and Contribution **Not Included
 
 This repository serves as a central hub for our study group's resources and code. Members are encouraged to:
 
@@ -89,7 +73,7 @@ This repository serves as a central hub for our study group's resources and code
 - **Seek assistance**: If you're stuck on a problem, upload your code, and we can work through the issues together.
 - **Review and collaborate**: Provide constructive feedback on your peers' submissions, suggest improvements, and discuss alternative solutions.
 
-## Weekly Meetings
+## Weekly Meetings **Not Included
 
 Our study group meets weekly via Google Meet to discuss our progress, address any challenges, and share insights. This repository will serve as a supplement to our meetings.
 
@@ -216,7 +200,6 @@ Explore the repository’s folders to find:
 
 ### Step 6: Stay Engaged
 
-- **Weekly Meetings:** Participate in our weekly Google Meet sessions to discuss challenges and solutions.
 - **Use Discord:** Join our Discord server for real-time discussions and updates.
 
 ### Step 7: Learn and Grow
@@ -227,7 +210,7 @@ Take advantage of the curated resources in the **Resources** folder for addition
 
 If you have any questions or need assistance with the repository, feel free to reach out to Cedric via cedriclard76@gmail.com or other members via Discord.
 
-## Repository Structure
+## Repository Structure **Not Included
 
 The repository is organized into the following main directories:
 
